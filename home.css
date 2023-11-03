@@ -1,0 +1,46 @@
+
+body{background-color: aliceblue;}
+
+.hero{background-color: aliceblue; 
+   height: 1000px;
+    width: 100%;}
+
+nav{display: flex; align-items: center; 
+    justify-content: space-between;
+     padding-top: 5px; padding-right: 5%;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+     width: 800px; 
+     margin-left: 330px;}
+
+.month{height: 60px;
+      
+      margin-left:4%; position: absolute;
+    }  
+
+nav ul li{list-style-type: none; 
+         display: inline-block; 
+         padding:3px 3px;
+         } 
+
+nav ul li a{color: black; 
+         font-weight: bold;
+         text-decoration: none;
+      padding-left: 30px; }
+
+ nav ul li a:hover{ color: blue;
+                transition: .6s;  } 
+
+.pic{ float: right; border:; margin-right: 50px; height: 440px; border-radius:; background-color:aliceblue; margin-top: 30px ;  }
+
+.reg{border:; margin-top: 170px; padding-left: 40px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.lup{font-size: 50px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-weight: bold;}
+
+
+.lok{ font-size: 37px; color: blue; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+button{background-color: blue; color: white; height: 35px; margin-left: 40px; border: 1px solid blue; width: 135px;}
+
+.pic2{height: 25px; border: ;  margin-left: 5px;}
+
+.dell{border:; margin-right:70px ; width: 150px; }
